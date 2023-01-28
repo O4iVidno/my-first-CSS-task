@@ -1,0 +1,63 @@
+body{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+h1, h2{
+    font-family: serif;
+    margin-top:1.5em;
+    font-size: 32px;
+}
+
+h1{
+    font-size: 32px;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+figcaption{
+    font-style: italic;
+    text-align: center;
+    font-weight: 400;
+}
+
+figure{
+    float: right;
+    margin-left: 20px;
+}
+
+.Sam_Houston_portrait{
+    height: 235px;
+}
+
+.Allens_Landing_Houston_bayou_view{
+    height: 240px;
+}
+
+.Main_Street_looking_south_Houston_Texas{
+    height: 220px;
+}
+
+.Houston_Ship_Channel{
+    height: 200px;
+}
+
+.Discovery_green, .Enron_Complex{
+    height: 210px;
+}
+
+.Aerial_View_of_the_Johnson_Space_Center, .Race_and_ethnicity_2010_Houston{
+    height: 270px;
+}
+
+.Large_Houston_Landsat{
+    height: 215px;
+}
+
+.Melcher_Center_for_Public_Broadcasting{
+    height: 215px;
+}
